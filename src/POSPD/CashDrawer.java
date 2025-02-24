@@ -29,12 +29,9 @@ public class CashDrawer
 	 */
 	public CashDrawer()
 	{
-		//hmmm im not sure here
 		super();
 		this.position = 0;
 		this.cashAmount = new BigDecimal(0);
-		
-		
 	}
 
 	/**
